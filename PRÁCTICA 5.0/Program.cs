@@ -76,5 +76,5 @@ namespace PRÁCTICA_5._0
             Console.WriteLine("Programa finalizado");
         }
     }
-    
+  
 }
