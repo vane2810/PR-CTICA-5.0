@@ -95,7 +95,7 @@ namespace Práctica_5._1
             // 
             // btnItem
             // 
-            this.btnItem.Location = new System.Drawing.Point(541, 69);
+            this.btnItem.Location = new System.Drawing.Point(540, 69);
             this.btnItem.Name = "btnItem";
             this.btnItem.Size = new System.Drawing.Size(75, 23);
             this.btnItem.TabIndex = 6;
